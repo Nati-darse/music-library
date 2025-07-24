@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# music-library
-=======
-# Music Management Application
+# Music Library Management Application
 
 A full-stack music management application built with React, Redux Toolkit, Redux-Saga, and Emotion, featuring manual Webpack configuration. This application allows users to manage their music collection with full CRUD operations and pagination.
 
@@ -340,4 +337,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ using React, Redux, and Webpack
->>>>>>> 21c8667 ( resolve merge conflicts fro branch to branch)
