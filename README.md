@@ -275,11 +275,7 @@ This creates a `dist/` directory with optimized assets:
 - Separated vendor and application bundles
 - Compressed assets for faster loading
 
-### Deployment Platforms
-- **Netlify**: Drag and drop the `dist/` folder
-- **Vercel**: Connect your Git repository
-- **GitHub Pages**: Use the built assets
-- **S3 + CloudFront**: Upload to AWS S3
+
 
 ## 🤖 AI Tool Usage Disclosure
 
@@ -322,18 +318,6 @@ This project was built with minimal AI assistance, focusing on demonstrating man
 - **Color Contrast**: WCAG AA compliant color ratios
 - **Focus Management**: Proper focus handling in modals and forms
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-Built with ❤️ using React, Redux, and Webpack
+Built with  using React, Redux, and Webpack
